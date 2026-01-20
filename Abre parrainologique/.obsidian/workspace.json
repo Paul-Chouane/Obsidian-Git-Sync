@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "fce0992d99b24f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "e427e2d5cb0d3808",
+        "type": "tabs",
+        "dimension": 32.79857397504456,
+        "children": [
+          {
+            "id": "eb5ddf3e982d13a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Promo 2006/Jules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jules"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b994d2d7c3c7823",
+        "type": "tabs",
+        "dimension": 67.20142602495544,
+        "children": [
+          {
+            "id": "79c6be4fe62ab2b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "335d9c860f673140",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d883e8c3da991cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af92d5a153324967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5773524ebf64c348",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87157ab63e050c33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "49895058d0fcf5a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa4e8fb28babe26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297bfee7b6028d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "80ddb9ea6082994a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4508000ae29f83cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad0d8ef7d5566463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "89d5a977c3949b09",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "eb5ddf3e982d13a3",
+  "lastOpenFiles": [
+    "Promo 2006/Ninon.md",
+    "Promo 2006/Mila.md",
+    "Promo 2006/Mathilde.md",
+    "Promo 2006/Marie.md",
+    "Promo 2006/Lucie.md",
+    "Promo 2006/Julien.md",
+    "Promo 2006/Jules.md",
+    "Untitled.canvas",
+    "Promo 2005/Axel (goat).md",
+    "Promo 2005/AK.md",
+    "Promo 2005/Hector (rip).md",
+    "Template.md",
+    "Promo 2004/Noémie.md",
+    "Promo 2004/Louis.md",
+    "Promo 2005/Arthur Heiss.md",
+    "Promo 2004/Manon.md",
+    "Pasted image 20251104212321.png",
+    "Promo 2005/Sam.md",
+    "Promo 2005/Mehdi.md",
+    "Promo 2007/Marin.md",
+    "Promo 2006/Agathe.md",
+    "Promo 2006/Clara.md",
+    "Promo 2007/Lucas F.md",
+    "Promo 2007/Nordine.md",
+    "Promo 2007/Sven.md",
+    "Promo 2007/Clément.md",
+    "Promo 2006/Aloïs.md",
+    "Promo 2007/Welly.md",
+    "Promo 2003",
+    "Promo 2004",
+    "Promo 2005",
+    "Promo 2006",
+    "Promo 2007"
+  ]
+}
