@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "6ce49b51210ce884",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea5e6a38f1b8ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd386710a168ab0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18797ddbb722a9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c8dfa00f8c06249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab0dccb0eb3db69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ff67ac1d635dd46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff3e0790c40161d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "4c540fa1618f1ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfec8e94445b50e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5565e89968f5b37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Note"
+            }
+          },
+          {
+            "id": "29c76b87bbce5b3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Note"
+            }
+          },
+          {
+            "id": "22da47f6ceb26f2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab3773d8afa7adc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7cd386710a168ab0",
+  "lastOpenFiles": [
+    "Recette/Plat principal/Bouillon de bœuf.md",
+    "Recette/Plat principal/Quiche Lorraine.md",
+    "Template/Template de recette.md",
+    "Recette/Dessert/Crumble.md",
+    "Recette/Plat principal/Poêlée campagnarde (poireau, lardons et pommes de terre).md",
+    "Recette/Plat principal/Chili con carne.md",
+    "Menu/Menu de la semaine.md",
+    "Menu",
+    "Recette",
+    "Template",
+    "Plat principal/Untitled",
+    "Recette/Plat principal",
+    "Recette/Dessert"
+  ]
+}

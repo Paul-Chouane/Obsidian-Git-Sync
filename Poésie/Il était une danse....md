@@ -15,7 +15,7 @@ Que le grand sourire rayonnant de ton visage.
 
 Quand dans ta fine main la mienne fais naufrage.
 Et qu'enfin le bonheur fougasse refait surface.
-Quand nos deux pieds se déplace aux rythme des basses.
+Quand nos deux pieds se déplacent aux rythme des basses.
 
 ## Note
 Lundi 19 janvier 2026
