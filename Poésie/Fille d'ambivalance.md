@@ -21,7 +21,7 @@ Mais terrée dans le déni je ne pense qu'à toi.
 
 Douce fille en mon cœur, si seulement tu m'entend.
 Je t'invite en secret, si tu trouve le temps.
-Fille d'ambivalance, je veux, une dernière fois, 
+Fille d'ambivalence, je veux, une dernière fois, 
 Prendre ta main, danser, m'oublier dans tes bras. 
 
 ## Notes
