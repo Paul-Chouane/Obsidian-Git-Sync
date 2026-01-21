@@ -10,4 +10,7 @@ Quand de mes mains sanglantes, je porte mes tourments
 Dans la boite de pandore, dans mon appartement.
 
 Mais ça y est, nous y est, mes coffrets, mes affaires
-Toutes ma vie, dans le carrosse 
+Là toutes ma vie, alors pourquoi encore refaire,
+Pourquoi diable ! POURQUOI le sort a cette obsession. 
+Qu'une fois arrivé, TOUT dois monté trois échelon.
+
