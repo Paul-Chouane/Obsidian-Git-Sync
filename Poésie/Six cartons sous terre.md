@@ -23,7 +23,6 @@ Mais bondissant, j'échappai du chant des sirènes.
 (☝️🤓 Actually) Je suis à Ulysses, l'ASI à un LLM. 
 Fier de cet exploit 
 
-
 Mais ça y est, nous y est, mes coffrets, mes affaires
 Là toute ma vie, alors pourquoi encore refaire,
 Pourquoi diable ! POURQUOI le sort a cette obsession. 
