@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Six cartons sous terre.md",
+                "file": "Maman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Six cartons sous terre"
+              "title": "Maman"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "a81d71f6414a7843",
   "lastOpenFiles": [
-    "Ode à monsieur Houdry.md",
     "Six cartons sous terre.md",
+    "Un Noël, parfait....md",
+    "Ode à monsieur Houdry.md",
+    "Monde.md",
     "Fille d'ambivalance.md",
     "Il était une danse....md",
-    "Un Noël, parfait....md",
     "Maman.md"
   ]
 }

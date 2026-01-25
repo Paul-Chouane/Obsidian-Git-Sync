@@ -1,5 +1,5 @@
 ## Poème 
-Quand je serai plus grand, j'aurai pliens de talents, 
+Quand je serai plus grand, j'aurai pleins de talents, 
 Tu verras maman, je serais très important, 
 J'irais faire le tour de tout les continents 
 Puis je reviendrai pour t'offrir des fleurs, maman.
