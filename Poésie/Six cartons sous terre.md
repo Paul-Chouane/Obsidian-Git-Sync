@@ -27,3 +27,4 @@ Mais ça y est, nous y est, mes coffrets, mes affaires
 Là toute ma vie, alors pourquoi encore refaire,
 Pourquoi diable ! POURQUOI le sort a cette obsession. 
 Qu'une fois arrivé, TOUT doit monter trois échelons. 
+
