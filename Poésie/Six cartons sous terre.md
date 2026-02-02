@@ -1,4 +1,5 @@
 ## Poème
+
 Jamais je n'aurais pu, jamais je n'aurais cru,
 Que trois fois la besogne d'Hercule je vécus
 Je suis perdu dans les enfers, six cartons sous terre
@@ -20,7 +21,7 @@ Mais pris de vertiges et d'une attaque magnétique.
 Sauvagement mon lit m'agrippa, quel fanatique !
 
 Mais bondissant, j'échappai du chant des sirènes.
-(☝️🤓 Actually) Je suis à Ulysses, l'ASI à un LLM. 
+(☝️🤓 Actually) Je suis à Ulysse, l'ASI à un LLM. 
 Fier de cet exploit 
 
 Mais ça y est, nous y est, mes coffrets, mes affaires
