@@ -21,8 +21,17 @@ Mais pris de vertiges et d'une attaque magnétique.
 Sauvagement mon lit m'agrippa, quel fanatique !
 
 Mais bondissant, j'échappai du chant des sirènes.
+<<<<<<< HEAD
 (☝️🤓 Actually) Je suis à Ulysse, l'ASI à un LLM. 
 Fier de cet exploit 
+=======
+(☝️🤓 Actually) Je suis à Ulysses, l'ASI à un LLM. 
+Fier de cet exploit, mais épuisé malgré moi. 
+Je prend le temps du repos, après ce combat. 
+
+Une seule heure après j'étais déjà au taquet.
+Armé d'un 
+>>>>>>> 49370d5 (why)
 
 Mais ça y est, nous y est, mes coffrets, mes affaires
 Là toute ma vie, alors pourquoi encore refaire,
