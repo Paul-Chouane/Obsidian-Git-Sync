@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fils de vanité.md",
+                "file": "Six cartons sous terre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fils de vanité"
+              "title": "Six cartons sous terre"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "06be36f85d0d3d47",
   "lastOpenFiles": [
-    "Il était une danse....md",
-    "Six cartons sous terre.md",
     "Monde.md",
+    "Ode à monsieur Houdry.md",
+    "Il était une danse....md",
+    "Fils de vanité.md",
+    "Six cartons sous terre.md",
     "Maman.md",
     "Fille d'ambivalance.md",
-    "Un Noël, parfait....md",
-    "Ode à monsieur Houdry.md",
-    "Fils de vanité.md"
+    "Un Noël, parfait....md"
   ]
 }
