@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "befb5e100b445f12",
+        "id": "5156f5a90af220ef",
         "type": "tabs",
         "children": [
           {
-            "id": "06be36f85d0d3d47",
+            "id": "ae0843cce194cf26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Six cartons sous terre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Six cartons sous terre"
+              "title": "New tab"
             }
           }
         ]
@@ -169,14 +165,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "06be36f85d0d3d47",
+  "active": "ae0843cce194cf26",
   "lastOpenFiles": [
-    "Monde.md",
-    "Ode à monsieur Houdry.md",
-    "Il était une danse....md",
     "Fils de vanité.md",
-    "Six cartons sous terre.md",
+    "Ode à monsieur Houdry.md",
+    "Monde.md",
+    "Il était une danse....md",
     "Maman.md",
+    "Six cartons sous terre.md",
     "Fille d'ambivalance.md",
     "Un Noël, parfait....md"
   ]

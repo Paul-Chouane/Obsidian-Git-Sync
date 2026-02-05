@@ -1,36 +1,63 @@
 {
   "main": {
-    "id": "fce0992d99b24f34",
+    "id": "d453c3d1490df8b4",
     "type": "split",
     "children": [
       {
-        "id": "e427e2d5cb0d3808",
+        "id": "5f22a1fd7781c354",
         "type": "tabs",
-        "dimension": 32.79857397504456,
         "children": [
           {
-            "id": "eb5ddf3e982d13a3",
+            "id": "dd1779e344a8d029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promo 2006/Jules.md",
+                "file": "Qu'est ce que j'aime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jules"
+              "title": "Qu'est ce que j'aime"
+            }
+          },
+          {
+            "id": "b60e00542f564cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dans quoi je suis bon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dans quoi je suis bon"
+            }
+          },
+          {
+            "id": "27a29bfee70b4702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "De quoi le monde a-t-il besoin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De quoi le monde a-t-il besoin"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "7b994d2d7c3c7823",
+        "id": "819751d0d330d1e0",
         "type": "tabs",
-        "dimension": 67.20142602495544,
         "children": [
           {
-            "id": "79c6be4fe62ab2b8",
+            "id": "84d1275dfd0e914f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,15 +72,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "335d9c860f673140",
+    "id": "e92c8fe9803d19b7",
     "type": "split",
     "children": [
       {
-        "id": "2d883e8c3da991cf",
+        "id": "a5d330af5f6499a2",
         "type": "tabs",
         "children": [
           {
-            "id": "af92d5a153324967",
+            "id": "537f3d11dd529fe2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +93,7 @@
             }
           },
           {
-            "id": "5773524ebf64c348",
+            "id": "898d94a6920e6f76",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +110,7 @@
             }
           },
           {
-            "id": "87157ab63e050c33",
+            "id": "ebc06af04fee64aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,22 +123,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "49895058d0fcf5a6",
+    "id": "e4c77b3b25b7cb91",
     "type": "split",
     "children": [
       {
-        "id": "caa4e8fb28babe26",
+        "id": "88f68076572f8917",
         "type": "tabs",
         "children": [
           {
-            "id": "297bfee7b6028d8d",
+            "id": "55333e041e21b8ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "De quoi le monde a-t-il besoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,24 +149,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for De quoi le monde a-t-il besoin"
             }
           },
           {
-            "id": "80ddb9ea6082994a",
+            "id": "733e97679fab786b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "De quoi le monde a-t-il besoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from De quoi le monde a-t-il besoin"
             }
           },
           {
-            "id": "4508000ae29f83cd",
+            "id": "2b9ab0adb7a3a942",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,29 +182,32 @@
             }
           },
           {
-            "id": "ad0d8ef7d5566463",
+            "id": "58573c0b1db812e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "30f9d9bce088d937",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "De quoi le monde a-t-il besoin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "89d5a977c3949b09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "juggl_view"
+              "title": "Outline of De quoi le monde a-t-il besoin"
             }
           }
         ]
@@ -196,40 +228,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "79c6be4fe62ab2b8",
+  "active": "27a29bfee70b4702",
   "lastOpenFiles": [
-    "Promo 2006/Jules.md",
-    "Promo 2006/Ninon.md",
-    "Promo 2006/Mila.md",
-    "Promo 2006/Mathilde.md",
-    "Promo 2006/Marie.md",
-    "Promo 2006/Lucie.md",
-    "Promo 2006/Julien.md",
-    "Untitled.canvas",
-    "Promo 2005/Axel (goat).md",
-    "Promo 2005/AK.md",
-    "Promo 2005/Hector (rip).md",
-    "Template.md",
-    "Promo 2004/Noémie.md",
-    "Promo 2004/Louis.md",
-    "Promo 2005/Arthur Heiss.md",
-    "Promo 2004/Manon.md",
-    "Pasted image 20251104212321.png",
-    "Promo 2005/Sam.md",
-    "Promo 2005/Mehdi.md",
-    "Promo 2007/Marin.md",
-    "Promo 2006/Agathe.md",
-    "Promo 2006/Clara.md",
-    "Promo 2007/Lucas F.md",
-    "Promo 2007/Nordine.md",
-    "Promo 2007/Sven.md",
-    "Promo 2007/Clément.md",
-    "Promo 2006/Aloïs.md",
-    "Promo 2007/Welly.md",
-    "Promo 2003",
-    "Promo 2004",
-    "Promo 2005",
-    "Promo 2006",
-    "Promo 2007"
+    "Dans quoi je suis bon.md",
+    "De quoi le monde a-t-il besoin.md",
+    "Qu'est ce que j'aime.md"
   ]
 }
